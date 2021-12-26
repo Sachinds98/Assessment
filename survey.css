@@ -1,0 +1,139 @@
+body
+{
+    background-color: rgb(177, 213, 245);
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+#btn
+{
+ background-color: rgb(53, 243, 46);
+ color: black;
+ /* margin-top: 30px; */
+ width: 100px;
+ padding: 10px 10px;
+ font-size: 15px;
+ font-weight: bold;
+ border-radius: 10px;
+ /* background-color: rgb(53, 134, 240); */
+ transition: 0.8s;
+}
+
+#btn:hover
+{
+ background-color: black;
+ color: aliceblue;
+}
+
+#result
+{
+    margin-top: 20px;
+    font-size: 25px;
+    color: rgb(17, 17, 19);
+    font-weight: bold;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    transition: .8s;
+}
+
+#result:hover
+{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 35px;
+}
+
+.start
+{
+  text-align: center;
+  width: 300px;
+  height: 40px;
+  background-color: rgb(237, 240, 51); 
+}
+
+.blocks
+{
+   margin-bottom: 38px; 
+   width: 100%;
+   transition: .5s;
+}
+
+.blocks:hover
+{
+ font-size: 17px;
+ background-color: aliceblue;
+}
+
+.body
+{
+ background-color: rgba(39, 128, 245, 0.836);
+}
+
+.pro
+{
+    background-color: #f7eee5;
+    width: 500px;
+    height: 300px;
+    margin-top: 140px;
+    margin-left: 330px;
+    border-color: black;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.submit 
+{
+    margin-top: 30px;
+    width: 100px;
+    padding: 10px 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: rgb(53, 134, 240);
+    transition: 0.5s;
+}
+
+.submit:hover
+{
+ background-color: rgb(66, 252, 76);
+ border-width: 3px;
+}
+
+.pro h2
+{
+    font-size: 40px; 
+    color: rgb(7, 67, 134);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.l1
+{
+ text-align: center;
+ font-size: 25px;
+ font-weight: bold;
+ color: rgb(17, 17, 17);
+ /* padding-bottom: 60px; */
+}
+
+.input
+{
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.form
+{
+    padding-top: 50px;
+}
+
+.pro:hover
+{
+    /* background-color: rgb(100, 240, 226); */
+    border-radius: 20px;
+}
